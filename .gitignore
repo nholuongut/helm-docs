@@ -1,0 +1,7 @@
+/helm-docs
+/cmd/helm-docs/helm-docs
+dist
+.idea/
+*.iml
+.vscode/
+vendor/

@@ -1,0 +1,7 @@
+apiVersion: v1
+name: most-empty
+version: "0.2.0"
+engine: gotpl
+maintainers:
+  - email: luongutnho@hotmail.com
+    name: John Norwood
