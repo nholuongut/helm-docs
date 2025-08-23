@@ -1,4 +1,4 @@
-FROM alpine:3.20
+FROM alpine:3.21
 LABEL maintainer="Nho Luong <luongutnho@hotmail.com>"
 COPY helm-docs /usr/bin/
 
